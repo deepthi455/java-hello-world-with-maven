@@ -8,6 +8,6 @@ public class HelloWorld {
 		  System.out.println("The current local time is: " + currentTime);
 
         Greeter greeter = new Greeter();
-        System.out.println(greeter.sayHellojira12345());
+        System.out.println(greeter.sayHellojira123456());
     }
 }
